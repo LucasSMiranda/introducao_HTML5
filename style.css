@@ -43,3 +43,7 @@ body {
 .post_img {
     margin-bottom: 15px;
 }
+
+.contact_list li a {
+color: blue;
+}
